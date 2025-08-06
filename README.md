@@ -382,9 +382,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **v1.0.0**: Initial release with basic RAG functionality
 - **Current**: Enhanced error handling, Docker support, improved UI
-
----
-
-**Built with ❤️ for the AI community**
-
-*Happy chatting with your local RAG assistant! 🤖*
